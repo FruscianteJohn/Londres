@@ -1,0 +1,45 @@
+body{
+	padding-top:0px;
+	margin:0px;	
+}
+menu{
+	background-color:000066;
+	width:1309px;
+	height:49px;
+	margin:auto;
+	color:cc0000;
+}
+menu a{
+	display:block;
+	float:left;
+	padding:12px;
+	background-color:ff0000;
+	color:white;
+	text-decoration:none;
+	font-family:Britannic Bold;
+	width:80px;
+	text-align:center;
+}
+menu a:hover{
+	background-color:0000ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

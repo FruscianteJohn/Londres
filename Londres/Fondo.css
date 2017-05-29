@@ -1,0 +1,23 @@
+body{
+background:url(Imagenes/p1.jpg);	
+background-size:100vw 100vh;
+font-family:Arno Pro Smbd Caption;
+font-size:25px;
+font:justify;
+color:white;
+	
+	 border: gray 20px double;
+	
+	 background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+	
+	
+	
+	
+}

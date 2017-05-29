@@ -1,0 +1,57 @@
+body{
+	
+}
+form{
+	width:500px;
+	margin:auto;
+	background:rgba(0,0,0,.6);
+	padding:15px 20px;
+	
+}
+h3{
+	color:#00ffff;
+	text-align:center;
+	margin:15px;
+	font-size:30px;
+	margin-bottom:30px;
+	
+}
+input , textarea{
+	width:100%;
+	margin-bottom:25px;
+	padding:3px;
+	font-size:15px;
+}
+textarea{
+	min-height:100px;
+	max-height:200px;
+	max-width:100%;
+}
+#boton{
+	background:#05ecda;
+	padding:20px;
+	
+}
+#boton:hover{
+	cursor:pointer;
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
